@@ -1,0 +1,4 @@
+C:\Users\$Dodo\Documents\Visual Studio 2010\Projects\ServerKey\ServerKey\bin\Release\ServerKey.exe
+C:\Users\$Dodo\Documents\Visual Studio 2010\Projects\ServerKey\ServerKey\bin\Release\ServerKey.pdb
+C:\Users\$Dodo\Documents\Visual Studio 2010\Projects\ServerKey\ServerKey\obj\x86\Release\ServerKey.exe
+C:\Users\$Dodo\Documents\Visual Studio 2010\Projects\ServerKey\ServerKey\obj\x86\Release\ServerKey.pdb

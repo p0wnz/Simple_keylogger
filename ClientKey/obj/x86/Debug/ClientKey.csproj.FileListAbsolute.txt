@@ -1,0 +1,8 @@
+C:\Users\$Dodo\documents\visual studio 2010\Projects\ServerKey\ClientKey\bin\Debug\ClientKey.exe
+C:\Users\$Dodo\documents\visual studio 2010\Projects\ServerKey\ClientKey\bin\Debug\ClientKey.pdb
+C:\Users\$Dodo\documents\visual studio 2010\Projects\ServerKey\ClientKey\obj\x86\Debug\ClientKey.Properties.Resources.resources
+C:\Users\$Dodo\documents\visual studio 2010\Projects\ServerKey\ClientKey\obj\x86\Debug\ClientKey.csproj.GenerateResource.Cache
+C:\Users\$Dodo\documents\visual studio 2010\Projects\ServerKey\ClientKey\obj\x86\Debug\ClientKey.exe
+C:\Users\$Dodo\documents\visual studio 2010\Projects\ServerKey\ClientKey\obj\x86\Debug\ClientKey.pdb
+C:\Users\$Dodo\documents\visual studio 2010\Projects\ServerKey\ClientKey\obj\x86\Debug\ClientKey.frmKeyLog.resources
+C:\Users\$Dodo\Documents\Visual Studio 2010\Projects\ServerKey\ClientKey\obj\x86\Debug\ClientKey.csprojResolveAssemblyReference.cache
